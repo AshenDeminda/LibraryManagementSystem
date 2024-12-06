@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!"); 
+﻿using LibraryManagementSystem;
+
+Book book = new Book("The Hobbit", "J.R.R. Tolkien", "978-0-395-07122-1", "Fantasy", 3);
