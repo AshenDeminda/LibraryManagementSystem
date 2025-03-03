@@ -1,0 +1,126 @@
+Brave New World,Aldous Huxley,9780060850524,9,1932,True
+One Hundred Years of Solitude,Gabriel Garcia Marquez,9780060883287,8,1967,True
+To Kill a Mockingbird,Harper Lee,9780061120084,5,1960,True
+The Night Watch,Sergei Lukyanenko,9780062310095,7,1998,True
+The Alchemist,Paulo Coelho,9780062315007,8,1988,True
+The Secret Garden,Frances Hodgson Burnett,9780064401883,6,1911,True
+David Copperfield,Charles Dickens,9780140439441,5,1850,True
+The Brothers Karamazov,Fyodor Dostoevsky,9780140449242,5,1880,True
+The Count of Monte Cristo,Alexandre Dumas,9780140449266,7,1844,True
+Wuthering Heights,Emily Bronte,9780141439556,4,1847,True
+Great Expectations,Charles Dickens,9780141439563,6,1861,True
+Oliver Twist,Charles Dickens,9780141439747,4,1838,True
+Jane Eyre,Charlotte Bronte,9780141441146,5,1847,True
+The Picture of Dorian Gray,Oscar Wilde,9780141442464,5,1890,True
+Anna Karenina,Leo Tolstoy,9780143035008,6,1877,True
+The Shadow of the Wind,Carlos Ruiz Zafón,9780143126393,6,2001,True
+Life of Pi,Yann Martel,9780156027328,7,2001,True
+The Road,Cormac McCarthy,9780307387899,6,2006,True
+The Da Vinci Code,Dan Brown,9780307474279,11,2003,True
+Gone Girl,Gillian Flynn,9780307588372,10,2012,True
+The Shining,Stephen King,9780307743657,9,1977,True
+Carrie,Stephen King,9780307743664,6,1974,True
+Salem’s Lot,Stephen King,9780307743671,5,1975,True
+The Stand,Stephen King,9780307743688,8,1978,True
+Ready Player One,Ernest Cline,9780307887448,9,2011,True
+The Girl with the Dragon Tattoo,Stieg Larsson,9780307949487,9,2005,True
+Digital Fortress,Dan Brown,9780312263126,6,1998,True
+A Wrinkle in Time,Madeleine L’Engle,9780312367541,5,1962,True
+Circe,Madeline Miller,9780316556347,7,2018,True
+The Catcher in the Rye,J.D. Salinger,9780316769488,6,1951,True
+The Hobbit,J.R.R. Tolkien,9780345339683,8,1937,True
+The Hitchhiker’s Guide to the Galaxy,Douglas Adams,9780345391803,8,1979,True
+The Book Thief,Markus Zusak,9780375842207,7,2005,True
+The Night Circus,Erin Morgenstern,9780385534635,6,2011,True
+Harry Potter and the Chamber of Secrets,J.K. Rowling,9780439064873,12,1998,True
+Harry Potter and the Prisoner of Azkaban,J.K. Rowling,9780439136365,9,1999,True
+Harry Potter and the Goblet of Fire,J.K. Rowling,9780439139601,11,2000,True
+Harry Potter and the Order of the Phoenix,J.K. Rowling,9780439358071,9,2003,True
+Harry Potter and the Half-Blood Prince,J.K. Rowling,9780439785969,10,2005,True
+Dune,Frank Herbert,9780441013593,9,1965,True
+Les Miserables,Victor Hugo,9780451419439,4,1862,True
+1984,George Orwell,9780451524935,10,1949,True
+Dracula,Bram Stoker,9780486411095,6,1897,True
+Crime and Punishment,Fyodor Dostoevsky,9780486415871,5,1866,True
+The Midnight Library,Matt Haig,9780525559474,8,2020,True
+The Giver,Lois Lowry,9780544336261,7,1993,True
+Foundation,Isaac Asimov,9780553293357,7,1951,True
+The Martian,Andy Weir,9780553418026,8,2011,True
+Harry Potter and the Sorcerer’s Stone,J.K. Rowling,9780590353427,15,1997,True
+Project Hail Mary,Andy Weir,9780593135204,9,2021,True
+The Paper Palace,Miranda Cowley Heller,9780593329825,5,2021,True
+The Lord of the Rings,J.R.R. Tolkien,9780618640157,7,1954,True
+Deception Point,Dan Brown,9780671027384,5,2001,True
+Where the Crawdads Sing,Delia Owens,9780735219090,8,2018,True
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,6,1925,True
+The Lightning Thief,Rick Riordan,9780786838653,12,2005,True
+Inferno,Dan Brown,9780804172264,8,2013,True
+Ender’s Game,Orson Scott Card,9780812550702,10,1985,True
+The House in the Cerulean Sea,TJ Klune,9781250217318,9,2020,True
+Angels & Demons,Dan Brown,9781416524793,10,2000,True
+The Titan’s Curse,Rick Riordan,9781423101451,9,2007,True
+The Last Olympian,Rick Riordan,9781423101475,10,2009,True
+The Battle of the Labyrinth,Rick Riordan,9781423101499,8,2008,True
+The Sea of Monsters,Rick Riordan,9781423103349,10,2006,True
+Fahrenheit 451,Ray Bradbury,9781451673319,6,1953,True
+A Man Called Ove,Fredrik Backman,9781476738024,6,2012,True
+It,Stephen King,9781501142976,7,1986,True
+Misery,Stephen King,9781501143102,5,1987,True
+Pet Sematary,Stephen King,9781501156706,4,1983,True
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,9781501161933,8,2017,True
+Moby-Dick,Herman Melville,9781503280786,4,1851,True
+Pride and Prejudice,Jane Austen,9781503290563,7,1813,True
+Daisy Jones & The Six,Taylor Jenkins Reid,9781524798642,7,2019,True
+Malibu Rising,Taylor Jenkins Reid,9781524798659,6,2021,True
+A Tale of Two Cities,Charles Dickens,9781853260391,8,1859,True
+War and Peace,Leo Tolstoy,9781853260629,3,1869,True
+The Goldfinch,Donna Tartt,9780316055437,8,2013,True
+The Handmaid's Tale,Margaret Atwood,9780385490818,9,1985,True
+The Kite Runner,Khaled Hosseini,9781594631931,9,2003,True
+The Girl on the Train,Paula Hawkins,9781594634024,8,2015,True
+The Help,Kathryn Stockett,9780425232200,8,2009,True
+The Hunger Games,Suzanne Collins,9780439023481,10,2008,True
+Catching Fire,Suzanne Collins,9780439023498,9,2009,True
+Mockingjay,Suzanne Collins,9780439023511,9,2010,True
+The Fault in Our Stars,John Green,9780525478812,9,2012,True
+Looking for Alaska,John Green,9780142402511,8,2005,True
+Paper Towns,John Green,9780142414934,8,2008,True
+An Abundance of Katherines,John Green,9780142410707,7,2006,True
+The Maze Runner,James Dashner,9780385737951,8,2009,True
+The Scorch Trials,James Dashner,9780385738767,7,2010,True
+The Death Cure,James Dashner,9780385738781,7,2011,True
+Divergent,Veronica Roth,9780062024039,9,2011,True
+Insurgent,Veronica Roth,9780062024046,8,2012,True
+Allegiant,Veronica Roth,9780062024060,8,2013,True
+The Book Thief,Markus Zusak,9780375842207,9,2005,True
+The Lovely Bones,Alice Sebold,9780316044936,8,2002,True
+The Perks of Being a Wallflower,Stephen Chbosky,9780671027346,8,1999,True
+The Outsiders,S.E. Hinton,9780142407332,8,1967,True
+The Catcher in the Rye,J.D. Salinger,9780316769488,9,1951,True
+The Great Gatsby,F. Scott Fitzgerald,9780743273565,9,1925,True
+The Grapes of Wrath,John Steinbeck,9780143039433,8,1939,True
+Of Mice and Men,John Steinbeck,9780140177398,8,1937,True
+East of Eden,John Steinbeck,9780142004234,8,1952,True
+The Old Man and the Sea,Ernest Hemingway,9780684801223,8,1952,True
+A Farewell to Arms,Ernest Hemingway,9780684801469,8,1929,True
+For Whom the Bell Tolls,Ernest Hemingway,9780684803357,8,1940,True
+The Sun Also Rises,Ernest Hemingway,9780684800714,8,1926,True
+Slaughterhouse-Five,Kurt Vonnegut,9780385333849,8,1969,True
+Cat's Cradle,Kurt Vonnegut,9780385333481,8,1963,True
+Breakfast of Champions,Kurt Vonnegut,9780385334204,8,1973,True
+The Road,Cormac McCarthy,9780307387899,8,2006,True
+Blood Meridian,Cormac McCarthy,9780679728757,8,1985,True
+No Country for Old Men,Cormac McCarthy,9780307387134,8,2005,True
+The Crossing,Cormac McCarthy,9780679760849,8,1994,True
+All the Pretty Horses,Cormac McCarthy,9780679744399,8,1992,True
+The Stand,Stephen King,9780307743688,9,1978,True
+It,Stephen King,9781501142976,9,1986,True
+Misery,Stephen King,9781501143102,8,1987,True
+The Shining,Stephen King,9780307743657,9,1977,True
+Carrie,Stephen King,9780307743664,8,1974,True
+Salem's Lot,Stephen King,9780307743671,8,1975,True
+The Green Mile,Stephen King,9780671041786,8,1996,True
+The Dark Tower: The Gunslinger,Stephen King,9780451210845,8,1982,True
+The Dark Tower: The Drawing of the Three,Stephen King,9780451210852,8,1987,True
+The Dark Tower: The Waste Lands,Stephen King,9780451210869,8,1991,True
+The Dark Tower: Wizard and Glass,Stephen King,9780451210876,8,1997,True

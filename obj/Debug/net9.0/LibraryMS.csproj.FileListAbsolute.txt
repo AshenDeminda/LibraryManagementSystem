@@ -1,0 +1,14 @@
+C:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\LibraryMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\LibraryMS.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\LibraryMS.AssemblyInfo.cs
+C:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\LibraryMS.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\Documents\C#\LibraryMS\bin\Debug\net9.0\LibraryMS.exe
+c:\Users\ASUS\Documents\C#\LibraryMS\bin\Debug\net9.0\LibraryMS.deps.json
+c:\Users\ASUS\Documents\C#\LibraryMS\bin\Debug\net9.0\LibraryMS.runtimeconfig.json
+c:\Users\ASUS\Documents\C#\LibraryMS\bin\Debug\net9.0\LibraryMS.dll
+c:\Users\ASUS\Documents\C#\LibraryMS\bin\Debug\net9.0\LibraryMS.pdb
+c:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\LibraryMS.dll
+c:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\refint\LibraryMS.dll
+c:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\LibraryMS.pdb
+c:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\LibraryMS.genruntimeconfig.cache
+c:\Users\ASUS\Documents\C#\LibraryMS\obj\Debug\net9.0\ref\LibraryMS.dll
